@@ -1,0 +1,1 @@
+It predicts hiring salary with ML linear regression with multiple variables: experience ,test scores ,and interview score then we predict the hiring salary based on these 3 variables using pandas something simple for practicing
